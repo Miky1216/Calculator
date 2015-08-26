@@ -1,0 +1,6 @@
+C:\Users\Mterrill_Li\Dropbox\C#\Week 6\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Mterrill_Li\Dropbox\C#\Week 6\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Mterrill_Li\Dropbox\C#\Week 6\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Mterrill_Li\Dropbox\C#\Week 6\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Mterrill_Li\Dropbox\C#\Week 6\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Mterrill_Li\Dropbox\C#\Week 6\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
