@@ -13,11 +13,11 @@ namespace Calculator
         {
 
         }
-        public void Calculate(double num1, double num2)
+        public void Calculate(double value1, double value2)
         {
-            result = num1 + num2;
-            Console.WriteLine("The sum of " + num1 + " and " + num2 + " is " + result);
-            Console.ReadLine();
+            result = value1 + value2;
+            Console.WriteLine("The sum of " + value1 + " and " + value2 + " is " + result);
+            
         }
     }
 }
